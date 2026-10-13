@@ -27,10 +27,20 @@ Practice projects focused on building REST APIs and CRUD workflows, including lo
 ### [First React Project](https://github.com/akshatgupta1234567-sudo/First-React-Project)
 A React + Vite learning project covering component structure, state, event handling, and React hooks through an interactive counter.
 
+## 🤝 Team Projects & Contributions
+
+I have also contributed to collaborative projects, with a focus on frontend development and user-facing workflows.
+
+### [KISAN-SETU](https://github.com/Adarshcsds/KISAN-SETU)
+A collaborative agriculture-focused platform. My contribution involved frontend redesign work using **React, TypeScript, Vite, and Tailwind CSS**, including reusable layout components and farmer-facing dashboard workflows.
+
+### [EduChamp](https://github.com/Adarshcsds/Educhamp)
+A collaborative student learning dashboard project. My contribution involved frontend UI work for role-based login flows and student dashboard experiences, using **React and CSS**.
+
 ## 📫 Connect
 
 - **GitHub:** [@akshatgupta1234567-sudo](https://github.com/akshatgupta1234567-sudo)
-- **LinkedIn:** [Akshat Kumar Gupta](https://www.linkedin.com/in/akshat-kumar-gupta963/)
+- **LinkedIn:** [Akshat Kumar Gupta](https://www.linkedin.com/in/akshatgupta-kumar-gupta963/)
 
 ---
 
