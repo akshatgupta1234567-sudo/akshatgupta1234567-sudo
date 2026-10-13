@@ -29,13 +29,12 @@ A React + Vite learning project covering component structure, state, event handl
 
 ## 🤝 Team Projects & Contributions
 
-I have also contributed to collaborative projects, with a focus on frontend development and user-facing workflows.
-
 ### [KISAN-SETU](https://github.com/Adarshcsds/KISAN-SETU)
-A collaborative agriculture-focused platform. My contribution involved frontend redesign work using **React, TypeScript, Vite, and Tailwind CSS**, including reusable layout components and farmer-facing dashboard workflows.
+Collaborative agriculture-focused platform. I worked on the frontend redesign using **React, TypeScript, Vite, and Tailwind CSS**, including shared layout/navigation components and farmer-facing dashboard workflows. My role was focused on the frontend; backend work was handled separately by the team.
 
 ### [EduChamp](https://github.com/Adarshcsds/Educhamp)
-A collaborative student learning dashboard project. My contribution involved frontend UI work for role-based login flows and student dashboard experiences, using **React and CSS**.
+Collaborative education platform. I contributed the initial frontend, including **login, registration, admin login, reusable authentication components, styling/assets, and Vite configuration** using React.  
+**Merged contribution:** [Add frontend — Pull Request #1](https://github.com/Adarshcsds/Educhamp/pull/1)
 
 ## 📫 Connect
 
