@@ -34,7 +34,7 @@ Collaborative agriculture-focused platform. I worked on the frontend redesign us
 
 ### [EduChamp](https://github.com/Adarshcsds/Educhamp)
 Collaborative education platform. I contributed the initial frontend, including **login, registration, admin login, reusable authentication components, styling/assets, and Vite configuration** using React.  
-**Merged contribution:** [Add frontend — Pull Request #1](https://github.com/Adarshcsds/Educhamp/pull/1)
+**Merged contribution:** 
 
 ## 📫 Connect
 
